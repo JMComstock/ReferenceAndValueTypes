@@ -1,0 +1,7 @@
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ReferenceTypeValueType\ReferenceTypeValueType\bin\Debug\ReferenceTypeValueType.exe.config
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ReferenceTypeValueType\ReferenceTypeValueType\bin\Debug\ReferenceTypeValueType.exe
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ReferenceTypeValueType\ReferenceTypeValueType\bin\Debug\ReferenceTypeValueType.pdb
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ReferenceTypeValueType\ReferenceTypeValueType\obj\Debug\ReferenceTypeValueType.csprojAssemblyReference.cache
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ReferenceTypeValueType\ReferenceTypeValueType\obj\Debug\ReferenceTypeValueType.csproj.CoreCompileInputs.cache
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ReferenceTypeValueType\ReferenceTypeValueType\obj\Debug\ReferenceTypeValueType.exe
+C:\Users\jmcom\Desktop\C#\C#Fundamentals\ReferenceTypeValueType\ReferenceTypeValueType\obj\Debug\ReferenceTypeValueType.pdb
